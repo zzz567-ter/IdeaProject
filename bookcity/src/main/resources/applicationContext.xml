@@ -23,7 +23,7 @@
     <!--配置连接池-->
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
         <property name="driverClass" value="com.mysql.jdbc.Driver"/>
-        <property name="jdbcUrl" value="jdbc:mysql://47.102.206.185:3306/booksdb"/>
+        <property name="jdbcUrl" value="jdbc:mysql:///booksdb"/>
         <property name="user" value="root"/>
         <property name="password" value="qq457884933"/>
     </bean>
