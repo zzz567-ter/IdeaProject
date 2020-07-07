@@ -1,0 +1,115 @@
+#nava {
+    margin-right: 30px;
+}
+
+#logo {
+    width: 100px;
+    transform: translateY(-15px);
+}
+
+#nav-left {
+    background-color: black;
+    float: left;
+    height: 100%;
+    width: 100px;
+}
+
+li {
+    list-style: none;
+}
+
+.progress-bar-black {
+    background-color: rgba(29, 10, 10, 0.589);
+}
+
+.progress-bar-pink {
+    background-color: pink;
+}
+
+.dropdown {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+}
+
+.progress-bar-red {
+    background-color: red;
+}
+
+.progress-bar-blue {
+    background-color: blue;
+}
+
+.container-fluid .jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#nav-left {
+    background-color: #9999;
+    float: left;
+    top: 30px;
+    left: 0;
+    transform: translateY(-20px);
+    height: 580px;
+    width: 160px;
+}
+
+.list-group a {
+    text-align: center;
+}
+
+.user {
+    height: 50px;
+    float: right;
+    line-height: 50px;
+}
+
+.list-group a:nth-child(1) {
+    background-color: #9999;
+}
+
+.progress div {
+    transition: all 5s linear;
+}
+#nav-left {
+    background-color: #9999;
+    float: left;
+    top: 30px;
+    left: 0;
+    transform: translateY(-20px);
+    height: 580px;
+    width: 160px;
+}
+
+.list-group a {
+    text-align: center;
+}
+
+#user {
+    height: 50px;
+    float: right;
+    line-height: 50px;
+}
+
+.list-group a:nth-child(1) {
+    background-color: #9999;
+}
+
+.main .table {
+    margin-top: 20px;
+}
+
+.table tr td .btn-lg {
+    padding: 0px 16px;
+    font-size: 15px;
+}
+
+.table tr th,
+td {
+    text-align: center;
+}
+
+.col-xs-1 .btn-lg {
+    padding: 4px 16px;
+}
